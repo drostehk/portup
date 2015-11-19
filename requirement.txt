@@ -1,0 +1,6 @@
+Install the following
+ - fdfgen
+	pip install fdfgen
+ - pdftk server
+	https://www.pdflabs.com/tools/pdftk-server/
+
